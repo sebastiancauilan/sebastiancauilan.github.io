@@ -4,7 +4,7 @@ Thanks for using TimeBlast!
 
 If you have any issues, questions, or feedback, feel free to reach out:
 
-📧 Email: [your@gmail.com](mailto:sebastian.cauilan12@gmail.com)
+📧 Email: [sebastian.cauilan12@gmail.com](mailto:sebastian.cauilan12@gmail.com)
 
 We typically respond within 24–48 hours.
 
